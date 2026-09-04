@@ -1,1 +1,1 @@
-Autor del proyecto: Rafa (Data Scientist)
+Autor del proyecto: R. González
