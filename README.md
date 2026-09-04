@@ -1,1 +1,1 @@
-Autor del proyecto: Rafa
+Autor del proyecto: Rafa (Data Scientist)
